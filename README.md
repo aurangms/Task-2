@@ -26,6 +26,7 @@ we can look into the  sample
    - Notice the domain: online-cloud-secure.com. While it includes keywords like "online," "cloud," and "secure," it's likely not the actual domain of a real cloud storage provider (e.g., Dropbox.com, GoogleDrive.com). Phishers use domains that sound legitimate but are slightly different.
 
    - The use of HTTPS (https://) can make it seem legitimate, as many phishing sites now use SSL certificates. So, always check the domain itself, not just the "s".
+   - If you have any doubt about a URL, you can check it for any malicious activity on websites like VirusTotal, Hybrid Analysis, etc. These websites analyze the URL
 
 - Spelling and Grammar Errors:
   - top priorety instead of top priority. While subtle, these errors are common in phishing emails, especially those originating from non-native English speakers or those trying to bypass spam filters.
