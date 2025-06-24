@@ -13,7 +13,7 @@ we can look into the  sample
   - 'Dear Valued Member,'  This is a common tactic. Legitimate services typically address you by your specific name if they have your account details. Scammers use generic greetings because they send mass emails.
 
 - Sense of Urgency and Threatening Language:
-  - Urgent Security Alert, Immediately Suspended, immediate verification, Failure to complete this verification within 24 hours will result in permanent account termination and loss of all data. - This is classic phishing. It tries to create panic and pressure you into acting without thinking, bypassing your critical judgment.
+  - "Urgent Security Alert, Immediately Suspended, immediate verification, Failure to complete this verification within 24 hours will result in permanent account termination and loss of all data." - This is classic phishing. It tries to create panic and pressure you into acting without thinking, bypassing your critical judgment.
 
 - Requests for Sensitive Information (Indirect):
   - The email doesn't directly ask for your password in the email body, but it instructs you to "click on the secure link below to verify your account and restore full access." The goal of this link is to take you to a fake login page where you will be asked for your credentials. Legitimate companies rarely ask you to "verify" account details by clicking a link in an email.
@@ -29,12 +29,12 @@ we can look into the  sample
    - If you have any doubt about a URL, you can check it for any malicious activity on websites like VirusTotal, Hybrid Analysis, etc. These websites analyze the URL
 
 - Spelling and Grammar Errors:
-  - top priorety instead of top priority. While subtle, these errors are common in phishing emails, especially those originating from non-native English speakers or those trying to bypass spam filters.
+  - 'top priorety' instead of 'top priority'. While subtle, these errors are common in phishing emails, especially those originating from non-native English speakers or those trying to bypass spam filters.
 
-  - verifaction in the reply-to address.
+  - 'verifaction' in the reply-to address.
 
 - Generic Reference ID:
-  - Reference ID: #SEC00987654321 - While legitimate emails often have reference IDs, in a phishing attempt, it's often a generic or randomly generated string to add a false sense of authenticity.
+  - 'Reference ID: #SEC00987654321' - While legitimate emails often have reference IDs, in a phishing attempt, it's often a generic or randomly generated string to add a false sense of authenticity.
 
 - How to handle real suspicious emails (Training takeaway):
   - DON'T click links or open attachments.
